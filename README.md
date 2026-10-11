@@ -46,9 +46,4 @@ apps que funcionam na mão de quem está na obra e APIs que entregam o relatóri
 | **mar/2025 → abr/2026** | Suporte Técnico e Infraestrutura | Suporte a hardware, software e redes; manutenção de estações de trabalho; administração de rede local (LAN) |
 | **jan/2024 → abr/2024** | Estágio · **Prefeitura de Ibirité** | Site em HTML, CSS e JavaScript com Firebase para agilizar o atendimento interno |
 
-### 🚀 Projetos
 
-- **[Relatório FACEV](https://github.com/joaogomespedro1011-collab/Relatorio-FACEV)**: app offline (React Native + Expo + TypeScript) para relatórios de inspeção e alojamento, com fotos, assinatura na tela e PDF gerado no próprio aparelho.
-
----
-<p align="center"><i>Em busca de oportunidades de estágio em desenvolvimento de software.</i></p>
