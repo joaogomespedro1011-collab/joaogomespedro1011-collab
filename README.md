@@ -2,9 +2,9 @@
 <p align="center"><b>Desenvolvedor Full Stack</b> · Estudante de Sistemas de Informação na PUC Minas</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-7B1A2C?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/joao-pedro-gomes-a5766b3b8"><img src="https://img.shields.io/badge/LinkedIn-7B1A2C?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:joaogomespedro1011@gmail.com"><img src="https://img.shields.io/badge/E--mail-7B1A2C?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/SUA_CIDADE_·_MG-7B1A2C?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Belo_Horizonte_·_MG-7B1A2C?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
 ---
@@ -37,6 +37,3 @@ apps que funcionam na mão de quem está na obra e APIs que entregam o relatóri
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-
-
-
