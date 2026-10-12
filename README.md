@@ -38,12 +38,5 @@ apps que funcionam na mão de quem está na obra e APIs que entregam o relatóri
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
 
-### 💼 Experiência
-
-| Período | Cargo | Destaques |
-|---|---|---|
-| **ago/2026 → hoje** | Desenvolvedor Full Stack · **IHM Stefanini** | App de inspeção industrial em React Native + Expo, API REST em Node.js/Express + PostgreSQL, PDFs automáticos (ExcelJS, LibreOffice, pdf-lib), assinatura digital, fotos de evidência e controle de acesso por obra |
-| **mar/2025 → abr/2026** | Suporte Técnico e Infraestrutura | Suporte a hardware, software e redes; manutenção de estações de trabalho; administração de rede local (LAN) |
-| **jan/2024 → abr/2024** | Estágio · **Prefeitura de Ibirité** | Site em HTML, CSS e JavaScript com Firebase para agilizar o atendimento interno |
 
 
